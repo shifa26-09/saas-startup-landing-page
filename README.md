@@ -24,7 +24,7 @@ This project demonstrates how a SaaS company can present its product, highlight 
 
 ## Live Demo
 
-https\\saas-startup-e4c1ed.netlify.app
+https://saas-startup-e4c1ed.netlify.app
 
 ## Author
 
